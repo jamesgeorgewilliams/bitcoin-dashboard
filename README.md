@@ -4,6 +4,10 @@ This dashboard is built using Svelte and D3.js
 
 Data source: Coindesk API
 
+### Link to access website online
+
+[Project on netlify](https://bitcoin-dashboard.netlify.app "Project on netlify") | [Project on github](https://github.com/jamesgeorgewilliams/bitcoin-dashboard "Project on github")
+
 
 ## Get started
 
