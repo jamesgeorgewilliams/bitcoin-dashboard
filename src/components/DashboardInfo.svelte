@@ -109,7 +109,7 @@
     <div class="info__lower-left">
       <span class="header__left-heading-price">${currentPrice}</span>
       <span class={isNegative ? "positive" : "negative"}>
-        {isNegative ? "+" : undefined}{percentageChange}%</span
+        {isNegative ? "+" : ""}{percentageChange}%</span
       >
     </div>
     <div class="info__lower-right">
